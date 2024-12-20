@@ -6,6 +6,7 @@ import numpy as np
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 
+
 app = FastAPI(
     title="Image Classification API",
     description="API for classifying images using CNN model"
