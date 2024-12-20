@@ -14,7 +14,7 @@
 ## Overview
 An advanced computer vision system for classifying environmental and urban scenes using a multi-modal Convolutional Neural Network (CNN) approach combining raw image data with engineered features (HOG, HSV, ResNet embeddings). The model achieves 81.93% accuracy across six distinct categories: Buildings, Forest, Glacier, Mountain, Sea, and Street.
 
-**Try Out the Classification Model:** https://image-classification-ao-2314.azurewebsites.net/ 
+**Try Out the Classification Model:** https://image-classification-ao-2314.azurewebsites.net/docs 
 
 ## Applications
 - Environmental monitoring and landscape change tracking
