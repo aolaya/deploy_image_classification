@@ -1,19 +1,13 @@
 # Image Classification Model and Deployment
 <p align="center">
-    <!--DOCKER-->
-      <img src="Images\docker-logo-6D6F987702-seeklogo.com.png"  width=10% alt="Docker" style="vertical-align: middle;">
-   <!--PLUS SIGN-->
-          <img src="Images\plus_sign.svg" width=7% alt="Plus" style="vertical-align: middle;">
-    <!--FASTAPI-->
-      <img src="Images\FastAPI_logo.svg.png"  width=15% alt="FastAPI" style="vertical-align: middle;">
-   <!--PLUS SIGN-->
-          <img src="Images\plus_sign.svg" width=7% alt="Plus" style="vertical-align: middle;">
-    <!--AZURE-->
-      <img src="Images\Microsoft_Azure-Logo.wine.png"  width=15% alt="Azure" style="vertical-align: middle;">
-   <!--PLUS SIGN-->
-          <img src="Images\plus_sign.svg" width=7% alt="Plus" style="vertical-align: middle;">
-     <!--POETRY-->
-          <img src="Images\poetry_logo.jpeg" width=5% alt="Poetry" style="vertical-align: middle;">
+    <img src="Images/docker-logo-6D6F987702-seeklogo.com.png" width="10%" valign="middle" alt="Docker">
+    <img src="Images/plus_sign.svg" width="7%" valign="middle" alt="Plus">
+    <img src="Images/FastAPI_logo.svg.png" width="15%" valign="middle" alt="FastAPI">
+    <img src="Images/plus_sign.svg" width="7%" valign="middle" alt="Plus">
+    <img src="Images/Microsoft_Azure-Logo.wine.png" width="15%" valign="middle" alt="Azure">
+    <img src="Images/plus_sign.svg" width="7%" valign="middle" alt="Plus">
+    <img src="Images/poetry_logo.jpeg" width="5%" valign="middle" alt="Poetry">
+</p>
 
 ## Overview
 An advanced computer vision system for classifying environmental and urban scenes using a multi-modal Convolutional Neural Network (CNN) approach combining raw image data with engineered features (HOG, HSV, ResNet embeddings). The model achieves 81.93% accuracy across six distinct categories: Buildings, Forest, Glacier, Mountain, Sea, and Street.
