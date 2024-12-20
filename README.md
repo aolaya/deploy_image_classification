@@ -7,6 +7,8 @@
     <img src="Images/Microsoft_Azure-Logo.wine.png" width="15%" valign="middle" alt="Azure">
     <img src="Images/plus_sign.svg" width="7%" valign="middle" alt="Plus">
     <img src="Images/poetry_logo.jpeg" width="5%" valign="middle" alt="Poetry">
+    <img src="Images/plus_sign.svg" width="7%" valign="middle" alt="Plus">
+    <img src="Images\TensorFlow_logo.svg.png" width="15%" valign="middle" alt="Tensorflow">
 </p>
 
 ## Overview
