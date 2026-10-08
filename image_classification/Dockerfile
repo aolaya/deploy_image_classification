@@ -19,7 +19,7 @@ COPY pyproject.toml poetry.lock ./
 RUN poetry config virtualenvs.create false
 
 # Install dependencies
-RUN poetry install --no-dev --no-interaction
+RUN poetry install --only main --no-interaction
 
 # Copy source code and model
 COPY ./src ./src
@@ -27,4 +27,4 @@ COPY ./model ./model
 
 EXPOSE 8000
 
-CMD ["uvicorn", "src.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD uvicorn src.main:app --host 0.0.0.0 --port ${PORT:-8000}
